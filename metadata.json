@@ -1,0 +1,6 @@
+{
+  "name": "SD Infininov - Dashain Reloaded Festive Clothing",
+  "description": "Nepal's premier clothing boutique featuring Dashain collections, dynamic Best Sellers, 3D interactive apparel zoom, split gender categories, and real eSewa mobile wallet binding & checkout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
